@@ -22,6 +22,8 @@ Here's what I have been upto lately: <br/><br/>
 
 @ __June 2, 2025__: I’m joining Amazon Science (Alexa AI) as a Research Scientist Intern in Bellevue, Washington this summer! 
 
+@ __May 28, 2025__: I gave a talk about: "Agentic AI Ecosystems: Navigating Cultural-Awareness, Biases and Misinformation in Multi-agent and Human-agent Interactions" at Microsoft Research Africa Seminar Series! Here's the [video](https://www.youtube.com/watch?v=0cgDj6Qt6VM) of my talk. 
+
 @ __May 20, 2025__: Presented our work on belief congruence in LLMs and its downstream impact in misinformation dissemination and learning at the Center for Conflict and Cooperation at NYU, headed by Dr. Jay Van Bavel. Thanks to Dr. Laura Globig for the invite! :)
 
 @ __May 15, 2025__: Our paper - [Mind the (Belief) Gap: Group Identity in the World of LLMs](https://arxiv.org/abs/2503.02016) on understanding belief congruence (a social psychology theory) in LLMs and it's impact on downstream tasks such as misinformation dissemination and learning has been accepted to ACL 2025 (Findings)!
