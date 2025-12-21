@@ -16,6 +16,12 @@ For more information, here's the [link](https://drive.google.com/file/d/1QPC1BTY
 
 Here's what I have been upto lately: <br/><br/>
 
+@ __20 Oct, 2025__: Our pre-print on evaluating curiosity differences across cultures is out on arxiv! Feel free to check it out [here](https://arxiv.org/pdf/2510.12943). 
+
+@ __Sep 19, 2025__: I gave an invited lecture (along with my advisor, Dr. Rada Mihalcea) at [EUROLAN summer school, Romania](https://conferences.info.uaic.ro/eurolan/2025/) on ‘Using Multi-Agent Systems to Explore and Model Human Social Behavior'. 
+
+@ __July 27, 2025__: Excited to be in Vienna for ACL 2025, presenting our paper: [Mind the (Belief) Gap: Group Identity in the World of LLMs](https://arxiv.org/abs/2503.02016), and co-organizing the [NLP for Positive Impact workshop](https://sites.google.com/view/nlp4positiveimpact)! 
+
 @ __June 2, 2025__: I’m joining Amazon Science (Alexa AI) as a Research Scientist Intern in Bellevue, Washington this summer! 
 
 @ __May 28, 2025__: I gave a talk about: "Agentic AI Ecosystems: Navigating Cultural-Awareness, Biases and Misinformation in Multi-agent and Human-agent Interactions" at Microsoft Research Africa Seminar Series! Here's the [video](https://www.youtube.com/watch?v=0cgDj6Qt6VM) of my talk. 
