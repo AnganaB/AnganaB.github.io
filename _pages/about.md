@@ -16,6 +16,8 @@ For more information, here's the [link](https://drive.google.com/file/d/1QPC1BTY
 
 Here's what I have been upto lately: <br/><br/>
 
+@ __4 Jan, 2026__: Two papers have been accepted to EACL 2026 Main! :) [Persuasion at Play: Understanding Misinformation Dynamics in Demographic-Aware Human-LLM Interactions](https://arxiv.org/abs/2503.02038) and [NLP for Social Good: A Survey of Challenges, Opportunities, and Responsible Deployment](https://arxiv.org/pdf/2505.22327)
+
 @ __20 Oct, 2025__: Our pre-print on evaluating curiosity differences across cultures is out on arxiv! Feel free to check it out [here](https://arxiv.org/pdf/2510.12943). 
 
 @ __Sep 19, 2025__: I gave an invited lecture (along with my advisor, Dr. Rada Mihalcea) at [EUROLAN summer school, Romania](https://conferences.info.uaic.ro/eurolan/2025/) on ‘Using Multi-Agent Systems to Explore and Model Human Social Behavior'. 
