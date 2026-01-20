@@ -14,7 +14,7 @@ For more information, here's the [link](https://drive.google.com/file/d/1QPC1BTY
 
 <h2>News</h2> 
 
-Here's what I have been upto lately: <br/><br/>
+Here's what I have been upto lately: <br/>
 
 @ __9 Jan, 2026__: Awarded the [Tinker Research Grant](https://thinkingmachines.ai/blog/tinker-research-and-teaching-grants/) ($5000) to continue our work on understanding curiosity in Large Language Models! Thank you, Thinking Machines Lab!  
 
@@ -82,7 +82,6 @@ Here's what I have been upto lately: <br/><br/>
 ◎ __Aug 23, 2021__: Started my master's at Georgia Tech. Go Jackets!!! <br/><br/> 
 ◎ __Aug 6, 2021__: Last day at Microsoft to pursue further studies. Grateful to my entire team for a wonderful year, wherein I got to learn a lot about Cloud, AI, and customer success. <br/><br/>
 ◎ __Jun 7, 2021__: Our survey paper "A survey on the roles of Bloom Filter in implementation of the Named Data Networking" got accepted to the Elsevier Computer Networks Journal ([Paper Link!](https://www.sciencedirect.com/science/article/abs/pii/S1389128621002747)). <br/><br/>
-◎ __Feb 23, 2021__: Awarded the Diversity and Inclusion (D&I) achievement award in my segment for developing an American Sign Language translator using Microsoft Azure Services with my colleagues. <br/><br/>
 ◎ __May 27, 2020__: Started working at Microsoft as a Technical Account Manager, my first corporate stint! <br/><br/>
 ◎ __May 20, 2020__: Graduated with a bachelor's degree in Computer Science and Engineering from the National Institute of Technology, Silchar. <img src="https://github.com/AnganaB/AnganaB.github.io/assets/30426258/d38e0e95-333b-4c5a-9a0d-f4e59d2f3556" alt="drawing" style="width:25px;"/> <br/><br/>
 ◎ __Apr 21, 2020__: Completed my under-graduate thesis on Content-Based Image Retrieval Systems under the guidance of Prof. Badal Soni at NIT Silchar. <br/><br/>
