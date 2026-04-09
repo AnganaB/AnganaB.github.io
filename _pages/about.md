@@ -16,6 +16,8 @@ For more information, here's the [link](https://drive.google.com/file/d/19_Iz60B
 
 Here's what I have been upto lately: <br/>
 
+@ __8 Apr, 2026__: Grateful to have been awarded the Rackham Pre-doctoral Fellowship by the University of Michigan Graduate School. Read more [here](https://ai.engin.umich.edu/stories/angana-borah-receives-rackham-predoctoral-fellowship).
+
 @ __9 Jan, 2026__: Awarded the [Tinker Research Grant](https://thinkingmachines.ai/blog/tinker-research-and-teaching-grants/) ($5000) to continue our work on understanding curiosity in humans and models. Thank you, Thinking Machines Lab!  
 
 @ __4 Jan, 2026__: Two papers have been accepted to EACL 2026 Main! :) [Persuasion at Play: Understanding Misinformation Dynamics in Demographic-Aware Human-LLM Interactions](https://arxiv.org/abs/2503.02038) and [NLP for Social Good: A Survey of Challenges, Opportunities, and Responsible Deployment](https://arxiv.org/pdf/2505.22327)
