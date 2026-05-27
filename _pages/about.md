@@ -17,7 +17,7 @@ For more information, here's the [link](https://drive.google.com/file/d/19_Iz60B
 Here's what I have been upto lately: <br/>
 
 
-@ __May 11, 2026__: I’m joining Bloomberg LP CTO Office as a Research Intern in New York this summer!
+@ __11 May, 2026__: I’m joining Bloomberg LP CTO Office as a Research Intern in New York this summer!
 
 @ __8 Apr, 2026__: Grateful to have been awarded the Rackham Pre-doctoral Fellowship by the University of Michigan Graduate School. Read more [here](https://ai.engin.umich.edu/stories/angana-borah-receives-rackham-predoctoral-fellowship).
 
