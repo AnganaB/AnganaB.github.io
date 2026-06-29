@@ -18,6 +18,7 @@ For more information, here's the [link](https://drive.google.com/file/d/1kg8M4Dp
 
 Here's what I have been upto lately: <br/>
 
+@ __28 June, 2026__: Excited to share that the 5th NLP for Positive Impact Workshop will be co-located with EMNLP 2026 in Budapest! The call for papers is now out — find more details [here](https://sites.google.com/view/nlp4positiveimpact)
 
 @ __11 May, 2026__: I’m joining Bloomberg LP CTO Office as a Research Intern (LLM Agents) in New York this summer!
 
