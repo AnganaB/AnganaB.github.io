@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 
 --- 
-Hello, and welcome to my website! I am Angana Borah, a third-year Computer Science and Engineering Ph.D. candidate at the [University of Michigan, Ann Arbor](https://cse.engin.umich.edu/academics/graduate/graduate-programs/phd-in-cse/), advised by [Prof. Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/). Prior to this, I completed my master's in Computer Science at [Georgia Tech](https://www.cc.gatech.edu/). *My research interests are in Computational Linguistics, especially in human-LLM interactions, fairness and bias, misinformation, cultural awareness, and healthcare applications. I am also interested in building evaluation frameworks in NLP across different tasks.* Feel free to reach out if you’d like to discuss research or explore potential collaboration! You can reach me at anganab@umich.edu. 
+Hello, and welcome to my website! I am Angana Borah, a third-year Computer Science and Engineering Ph.D. candidate at the [University of Michigan, Ann Arbor](https://cse.engin.umich.edu/academics/graduate/graduate-programs/phd-in-cse/), advised by [Prof. Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/). Prior to this, I completed my master's in Computer Science at [Georgia Tech](https://www.cc.gatech.edu/). *My research interests are in NLP and agents, especially evaluating human-LLM and LLM-LLM interactions from a socio-cultural lens, taking inspiration from psychology and cognitive sciences. In my PhD, I have been exploring how language models behave in socially grounded settings, including fairness and bias, curiosity-driven interaction, misinformation and persuasion, and cultural alignment. These directions aim to understand how LLMs reason, communicate, and influence people across diverse social and cultural contexts.* 
+
+I’m actively looking for research mentors and collaborators. Please reach out to discuss ideas or potential projects: [anganab@umich.edu](mailto:anganab@umich.edu).
 
 For more information, here's the [link](https://drive.google.com/file/d/1kg8M4DprPZ9YUsdtrkmHjtEqZuppMxin/view?usp=sharing) to my updated CV (as of May 2026)! 
 
@@ -17,7 +19,7 @@ For more information, here's the [link](https://drive.google.com/file/d/1kg8M4Dp
 Here's what I have been upto lately: <br/>
 
 
-@ __11 May, 2026__: I’m joining Bloomberg LP CTO Office as a Research Intern in New York this summer!
+@ __11 May, 2026__: I’m joining Bloomberg LP CTO Office as a Research Intern (LLM Agents) in New York this summer!
 
 @ __8 Apr, 2026__: Grateful to have been awarded the Rackham Pre-doctoral Fellowship by the University of Michigan Graduate School. Read more [here](https://ai.engin.umich.edu/stories/angana-borah-receives-rackham-predoctoral-fellowship).
 
