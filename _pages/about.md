@@ -22,6 +22,8 @@ Here's what I have been upto lately: <br/>
 
 @ __28 June, 2026__: Excited to share that the 5th NLP for Positive Impact Workshop will be co-located with EMNLP 2026 in Budapest! The call for papers is now out — find more details [here](https://sites.google.com/view/nlp4positiveimpact)
 
+@ __1 June, 2026__: Stoked to be co-organizing the [AI Explorers Program](https://ai.engin.umich.edu/ai-partners/ai-explorers-program/), a global research and mentorship program supporting talented pre-doctoral students in building strong PhD applications. 
+
 @ __11 May, 2026__: I’m joining Bloomberg LP CTO Office as a Research Intern (LLM Agents) in New York this summer!
 
 @ __8 Apr, 2026__: Grateful to have been awarded the Rackham Pre-doctoral Fellowship by the University of Michigan Graduate School. Read more [here](https://ai.engin.umich.edu/stories/angana-borah-receives-rackham-predoctoral-fellowship).
