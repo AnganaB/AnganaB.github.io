@@ -20,7 +20,7 @@ For more information, here's the [link](https://drive.google.com/file/d/1kg8M4Dp
 
 Here's what I have been upto lately: <br/>
 
-@ __Aug, 2026__: Excited to share that four papers I contributed to (one first-authored) have been accepted to [EMNLP 2026](https://2026.emnlp.org/)! Here are the paper details: [Whose Norms? Disentangling Cultural and Personal Alignment in Large Language Models](https://arxiv.org/pdf/2606.07877) (Main), NE-MultiSpeech: A Multilingual Speech Corpus and ASR Benchmark for Northeast Indian Languages (Main), AtlasNLP: A Country-Aware Atlas of Dataset Representation in NLP (Main) and [The Age of Curiosity Meets the Age of AI: Benchmarking Child Safety in Large Language Models](https://arxiv.org/pdf/2605.25510) (Findings)
+@ __Aug, 2026__: Excited to share that four papers I contributed to (one first-authored) have been accepted to [EMNLP 2026](https://2026.emnlp.org/)! Here are the details: [Whose Norms? Disentangling Cultural and Personal Alignment in Large Language Models](https://arxiv.org/pdf/2606.07877) (Main), NE-MultiSpeech: A Multilingual Speech Corpus and ASR Benchmark for Northeast Indian Languages (Main), AtlasNLP: A Country-Aware Atlas of Dataset Representation in NLP (Main) and [The Age of Curiosity Meets the Age of AI: Benchmarking Child Safety in Large Language Models](https://arxiv.org/pdf/2605.25510) (Findings)
 
 @ __Jul, 2026__: Glad to share that a project I was part of has been accepted to the [AIES conference](https://www.aies-conference.com/2026/) (Artificial Intelligence, Ethics and Society)! Here is our paper: [SurakshaEval: An Indic Safety Benchmark for Multilingual LLMs](https://arxiv.org/pdf/2608.07862)
 
