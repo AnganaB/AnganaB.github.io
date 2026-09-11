@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 
 --- 
-Hello, and welcome to my website! I am Angana Borah, a fourth-year Computer Science and Engineering Ph.D. candidate at the [University of Michigan, Ann Arbor](https://cse.engin.umich.edu/academics/graduate/graduate-programs/phd-in-cse/), advised by [Prof. Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/](https://lit.eecs.umich.edu/). Prior to this, I completed my master's in Computer Science at [Georgia Tech](https://www.cc.gatech.edu/). My research interests are in NLP and agents, especially evaluating human-LLM and LLM-LLM interactions from a socio-cultural lens, taking inspiration from psychology and cognitive sciences. In my PhD, I have been exploring how language models behave in socially grounded settings, including *fairness and bias*, *curiosity-driven interaction*, *misinformation and persuasion*, and *cultural alignment*. These directions aim to understand how LLMs reason, communicate, and influence people across diverse social and cultural contexts. Alongside my doctoral research, I have spent my summers interning at Amazon and Bloomberg, where I worked on conversational agents and autoresearch systems.
+Hello, and welcome to my website! I am Angana Borah, a fourth-year Computer Science and Engineering Ph.D. candidate at the [University of Michigan, Ann Arbor](https://cse.engin.umich.edu/academics/graduate/graduate-programs/phd-in-cse/), advised by [Prof. Rada Mihalcea](https://lit.eecs.umich.edu/). Prior to this, I completed my master's in Computer Science at [Georgia Tech](https://www.cc.gatech.edu/). My research interests are in NLP and agents, especially evaluating human-LLM and LLM-LLM interactions from a socio-cultural lens, taking inspiration from psychology and cognitive sciences. In my PhD, I have been exploring how language models behave in socially grounded settings, including *fairness and bias*, *curiosity-driven interaction*, *misinformation and persuasion*, and *cultural alignment*. These directions aim to understand how LLMs reason, communicate, and influence people across diverse social and cultural contexts. Alongside my doctoral research, I have spent my summers interning at Amazon and Bloomberg, where I worked on conversational agents and autoresearch systems.
 
 
 I’m actively looking for research mentees and collaborators. Please reach out to discuss ideas or potential projects: [anganab@umich.edu](mailto:anganab@umich.edu).
@@ -19,6 +19,8 @@ For more information, here's the [link](https://drive.google.com/file/d/1kg8M4Dp
 <h2>News</h2> 
 
 Here's what I have been upto lately: <br/>
+
+@ __Sep, 2026__: Our work investigating Curiosity across Cultures has been accepted to [AACL 2026 Main](https://2026.aaclnet.org/). Camera-ready coming soon! 
 
 @ __Aug, 2026__: Excited to share that four papers I contributed to (one first-authored) have been accepted to [EMNLP 2026](https://2026.emnlp.org/)! Here are the details: [Whose Norms? Disentangling Cultural and Personal Alignment in Large Language Models](https://arxiv.org/pdf/2606.07877) (Main), NE-MultiSpeech: A Multilingual Speech Corpus and ASR Benchmark for Northeast Indian Languages (Main), [AtlasNLP: A Country-Aware Atlas of Dataset Representation in NLP(https://arxiv.org/pdf/2608.30107) (Main) and [The Age of Curiosity Meets the Age of AI: Benchmarking Child Safety in Large Language Models](https://arxiv.org/pdf/2605.25510) (Findings)
 
