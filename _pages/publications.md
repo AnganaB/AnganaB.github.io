@@ -43,7 +43,7 @@ author_profile: true
   Rada Mihalcea, Oana Ignat, Longju Bai, **Angana Borah**, Luis Chiruzzo, Zhijing Jin, Claude Kwizera, Joan Nwatu, Soujanya Poria, Thamar Solorio (Annual AAAI Conference on Artificial Intelligence 2025 Senior Track)
 
 - [The Power of Many: Multi-Agent Multimodal Models for Cultural Image Captioning](https://aclanthology.org/2025.naacl-long.152/)<br>
-  Longju Bai*, **Angana Borah***, Oana Ignat*, Rada Mihalcea (Nations of the Americas Chapter of the Association for Computational Linguistics NAACL 2025 Main Oral) 
+  Longju Bai*, **Angana Borah** *, Oana Ignat *, Rada Mihalcea (Nations of the Americas Chapter of the Association for Computational Linguistics NAACL 2025 Main Oral) 
 
 ### 2024
 
