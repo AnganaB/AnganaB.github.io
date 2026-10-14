@@ -1,0 +1,89 @@
+/* ==========================================================================
+   NEWS PANEL
+   ========================================================================== */
+
+.news-panel {
+  margin: 0 0 3em;
+  background: #fff;
+  border: 1px solid $border-color;
+  border-top: 3px solid $info-color;
+  border-radius: $border-radius;
+
+  summary {
+    position: relative;
+    display: flex;
+    align-items: baseline;
+    gap: 0.8em;
+    padding: 0.9em 3em 0.9em 1.1em;
+    color: $darker-gray;
+    font-family: $sans-serif-narrow;
+    cursor: pointer;
+    list-style: none;
+    transition: background-color 0.2s ease;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::after {
+      position: absolute;
+      top: 50%;
+      right: 1.1em;
+      width: 1.5em;
+      color: $info-color;
+      font-size: 1.25em;
+      line-height: 1;
+      text-align: center;
+      content: "+";
+      transform: translateY(-50%);
+    }
+
+    &:hover,
+    &:focus {
+      background: mix(#fff, $info-color, 96%);
+    }
+
+    span {
+      font-size: $type-size-4;
+      font-weight: 600;
+    }
+
+    small {
+      color: $gray;
+      font-family: $sans-serif;
+      font-size: $type-size-6;
+      font-weight: 400;
+    }
+  }
+
+  &[open] summary {
+    border-bottom: 1px solid $border-color;
+
+    &::after {
+      content: "−";
+    }
+  }
+}
+
+.news-panel__content {
+  padding: 0.45em 1.2em 1.25em;
+
+  > p {
+    margin: 1em 0;
+  }
+
+  > p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: $small) {
+  .news-panel summary {
+    display: block;
+
+    small {
+      display: block;
+      margin-top: 0.2em;
+    }
+  }
+}
