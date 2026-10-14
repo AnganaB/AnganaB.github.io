@@ -28,14 +28,14 @@
     &::after {
       position: absolute;
       top: 50%;
-      right: 1.1em;
-      width: 1.5em;
-      color: $info-color;
-      font-size: 1.25em;
-      line-height: 1;
-      text-align: center;
-      content: "+";
-      transform: translateY(-50%);
+      right: 1.35em;
+      width: 0.55em;
+      height: 0.55em;
+      content: "";
+      border-right: 2px solid $info-color;
+      border-bottom: 2px solid $info-color;
+      transform: translateY(-65%) rotate(45deg);
+      transition: transform 0.2s ease;
     }
 
     &:hover,
@@ -60,7 +60,7 @@
     border-bottom: 1px solid $border-color;
 
     &::after {
-      content: "−";
+      transform: translateY(-35%) rotate(225deg);
     }
   }
 }
