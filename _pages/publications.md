@@ -14,7 +14,7 @@ author_profile: true
 **Angana Borah**, Edward Ajayi, Rada Mihalcea (Under Review)
 
 - [Not All Questions Are Curious: Measuring Model Curiosity in Human-LLM Interactions](https://drive.google.com/file/d/150UjfOBuYAgsvvNyMtjLQwUxGXyDbrB7/view?usp=sharing)<br>
-**Angana Borah**, Rachana Ramchandar, Inderjeet Nair, Rada Mihalcea (Under Review)
+**Angana Borah** *, Rachana Ramchandar *, Inderjeet Nair, Rada Mihalcea (Under Review)
 
 - [CURIOUSTOGETHER: Implications of Curiosity and Cultural Grounding in Multi-Agent LLM Interactions](https://drive.google.com/file/d/1LQmOerQJ3rRfJaxPiUKGXMpgASZv_PWI/view?usp=sharing)<br>
 **Angana Borah**, Zoha Hayat Bhatti, Zhijing Jin, Rada Mihalcea (Under Review)
