@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### 2026
+### 2026 
 
 - [Institutional Communication in the AI Era: Opportunities, Returns, and Unequal Benefits](https://drive.google.com/file/d/1gz-kr1Z2VN325ox88SwSL_Hw7uQGY1je/view?usp=sharing)<br>
 **Angana Borah**, Rada Mihalcea (Under Review)
