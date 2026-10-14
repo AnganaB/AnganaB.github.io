@@ -18,9 +18,12 @@ For more information, here's the [link](https://drive.google.com/file/d/1kg8M4Dp
 
 {% include research-directions.html %}
 
-<details class="news-panel">
-<summary><span>News</span><small>Updates, talks, awards, and milestones</small></summary>
-<div class="news-panel__content" markdown="1">
+<section class="news-panel" aria-labelledby="news-heading">
+<div class="news-panel__header">
+<h2 id="news-heading">News</h2>
+<span>Updates, talks, awards, and milestones</span>
+</div>
+<div class="news-panel__content" role="region" aria-label="News archive" tabindex="0" markdown="1">
 
 Here's what I have been up to lately:
 
@@ -110,7 +113,7 @@ Here's what I have been up to lately:
 ◎ __Apr 21, 2020__: Our paper "KTRICT: A KAZE Feature Extraction, Tree and Random Projection Indexing-Based CBIR Technique" got accepted to the International Journal of Multimedia Data Engineering and Management (IJMDEM). ([Paper link!](https://www.igi-global.com/article/ktrict-a-kaze-feature-extraction/260964))<br/><br/>
 
 </div>
-</details>
+</section>
 
 
 

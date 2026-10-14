@@ -4,69 +4,58 @@
 
 .news-panel {
   margin: 0 0 3em;
+  overflow: hidden;
   background: #fff;
   border: 1px solid $border-color;
   border-top: 3px solid $info-color;
   border-radius: $border-radius;
+}
 
-  summary {
-    position: relative;
-    display: flex;
-    align-items: baseline;
-    gap: 0.8em;
-    padding: 0.9em 3em 0.9em 1.1em;
+.news-panel__header {
+  display: flex;
+  align-items: baseline;
+  gap: 0.8em;
+  padding: 0.9em 1.1em;
+  border-bottom: 1px solid $border-color;
+
+  h2 {
+    margin: 0;
+    padding: 0;
     color: $darker-gray;
     font-family: $sans-serif-narrow;
-    cursor: pointer;
-    list-style: none;
-    transition: background-color 0.2s ease;
-
-    &::-webkit-details-marker {
-      display: none;
-    }
-
-    &::after {
-      position: absolute;
-      top: 50%;
-      right: 1.35em;
-      width: 0.55em;
-      height: 0.55em;
-      content: "";
-      border-right: 2px solid $info-color;
-      border-bottom: 2px solid $info-color;
-      transform: translateY(-65%) rotate(45deg);
-      transition: transform 0.2s ease;
-    }
-
-    &:hover,
-    &:focus {
-      background: mix(#fff, $info-color, 96%);
-    }
-
-    span {
-      font-size: $type-size-4;
-      font-weight: 600;
-    }
-
-    small {
-      color: $gray;
-      font-family: $sans-serif;
-      font-size: $type-size-6;
-      font-weight: 400;
-    }
+    font-size: $type-size-4;
+    font-weight: 600;
+    border: 0;
   }
 
-  &[open] summary {
-    border-bottom: 1px solid $border-color;
-
-    &::after {
-      transform: translateY(-35%) rotate(225deg);
-    }
+  span {
+    color: $gray;
+    font-size: $type-size-6;
   }
 }
 
 .news-panel__content {
+  height: 30em;
   padding: 0.45em 1.2em 1.25em;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-color: mix(#fff, $info-color, 35%) transparent;
+  scrollbar-width: thin;
+
+  &:focus {
+    outline: 2px solid mix(#fff, $info-color, 30%);
+    outline-offset: -2px;
+  }
+
+  &::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: mix(#fff, $info-color, 35%);
+    border: 2px solid #fff;
+    border-radius: 8px;
+  }
 
   > p {
     margin: 1em 0;
@@ -78,12 +67,16 @@
 }
 
 @media (max-width: $small) {
-  .news-panel summary {
+  .news-panel__header {
     display: block;
 
-    small {
+    span {
       display: block;
       margin-top: 0.2em;
     }
+  }
+
+  .news-panel__content {
+    height: 24em;
   }
 }
