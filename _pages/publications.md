@@ -8,30 +8,30 @@ author_profile: true
 ### 2026
 
 - [AtlasNLP: A Country-Aware Atlas of Dataset Representation in NLP](https://arxiv.org/abs/2608.30107)<br>
-  Joan Nwatu, Tsedeniya Solomon Amare, Longju Bai, Bontu Fufa Balcha, Zayd Bashir, **Angana Borah**, Zara Burzo, Yubin Choi, Naihao Deng, Samika Gupta, Michel Faloughi, Claude Kwizera, Ziqiao Ma, Cynthia Yacel Fuertes Panizo, Ellie Seehorn, Hui Shen, Jiayi Tang, Zesen Zhao, Boyuan Zheng, Rada Mihalcea
+  Joan Nwatu, Tsedeniya Solomon Amare, Longju Bai, Bontu Fufa Balcha, Zayd Bashir, **Angana Borah**, Zara Burzo, Yubin Choi, Naihao Deng, Samika Gupta, Michel Faloughi, Claude Kwizera, Ziqiao Ma, Cynthia Yacel Fuertes Panizo, Ellie Seehorn, Hui Shen, Jiayi Tang, Zesen Zhao, Boyuan Zheng, Rada Mihalcea (The 2026 Conference on Empirical Methods in Natural Language Processing, EMNLP Main) 
 
 - [SurakshaEval: An Indic Safety Benchmark for Multilingual LLMs](https://arxiv.org/abs/2608.07862)<br>
   Debopriyo Banerjee, Kapil Rajesh Kavitha, **Angana Borah**, Xudong Han, Yuxia Wang, Parameswari Krishnamurthy, Utkarsh Agarwal, Atharva Kulkarni, Swaran Lata, Ayush Munot, Dhruv Sahnan, Aaryamonvikram Singh, Preslav Nakov, Monojit Choudhury
 
 - [Whose Norms? Disentangling Cultural and Personal Alignment in Large Language Models](https://arxiv.org/abs/2606.07877)<br>
-  **Angana Borah**, Isabelle Augenstein, Rada Mihalcea
+  **Angana Borah**, Isabelle Augenstein, Rada Mihalcea (Empirical Methods in Natural Language Processing, EMNLP 2026 Main Oral)
 
 - [The Age of Curiosity Meets the Age of AI: Benchmarking Child Safety in Large Language Models](https://arxiv.org/abs/2605.25510)<br>
-  Samee Arif, **Angana Borah**, Rada Mihalcea
+  Samee Arif, **Angana Borah**, Rada Mihalcea (Empirical Methods in Natural Language Processing, EMNLP 2026 Findings) 
 
 - [NLP for Social Good: A Survey and Outlook of Challenges, Opportunities and Responsible Deployment](https://aclanthology.org/2026.eacl-long.238/)<br>
-  Antonia Karamolegkou, **Angana Borah**, Eunjung Cho, Sagnik Ray Choudhury, Martina Galletti, Pranav Gupta, Oana Ignat, Priyanka Kargupta, Neema Kotonya, Hemank Lamba, Sun-Joo Lee, Arushi Mangla, Ishani Mondal, Fatima Zahra Moudakir, Deniz Nazar, Poli Nemkova, Dina Pisarevskaya, Naquee Rizwan, Nazanin Sabri, Keenan Samway, Dominik Stammbach, Anna Steinberg Schulten, David Tomás, Steven R. Wilson, Bowen Yi, Jessica H. Zhu, Arkaitz Zubiaga, Anders Søgaard, Alexander Fraser, Zhijing Jin, Rada Mihalcea, Joel Tetreault, Daryna Dementieva
+  Antonia Karamolegkou, **Angana Borah**, Eunjung Cho, Sagnik Ray Choudhury, Martina Galletti, Pranav Gupta, Oana Ignat, Priyanka Kargupta, Neema Kotonya, Hemank Lamba, Sun-Joo Lee, Arushi Mangla, Ishani Mondal, Fatima Zahra Moudakir, Deniz Nazar, Poli Nemkova, Dina Pisarevskaya, Naquee Rizwan, Nazanin Sabri, Keenan Samway, Dominik Stammbach, Anna Steinberg Schulten, David Tomás, Steven R. Wilson, Bowen Yi, Jessica H. Zhu, Arkaitz Zubiaga, Anders Søgaard, Alexander Fraser, Zhijing Jin, Rada Mihalcea, Joel Tetreault, Daryna Dementieva (European Chapter of the Association for Computational Linguistics, EACL 2026 Main Oral) 
 
 - [Persuasion at Play: Understanding Misinformation Dynamics in Demographic-Aware Human-LLM Interactions](https://aclanthology.org/2026.eacl-long.234/)<br>
-  **Angana Borah**, Rada Mihalcea, Verónica Pérez-Rosas
+  **Angana Borah**, Rada Mihalcea, Verónica Pérez-Rosas (European Chapter of the Association for Computational Linguistics, EACL 2026 Main Oral)
 
 - [Belief-Sim: Towards Belief-Driven Simulation of Demographic Misinformation Susceptibility](https://arxiv.org/abs/2603.03585)<br>
-  **Angana Borah**, Zohaib Khan, Rada Mihalcea, Verónica Pérez-Rosas
-
-### 2025
+  **Angana Borah**, Zohaib Khan, Rada Mihalcea, Verónica Pérez-Rosas (Pluralistic AI & NLP: Diversity-aware, Sociotechnical, Responsible Alignment Workshop @ EMNLP 2026)
 
 - [The Curious Case of Curiosity across Human Cultures and LLMs](https://arxiv.org/abs/2510.12943)<br>
-  **Angana Borah**, Zhijing Jin, Rada Mihalcea
+  **Angana Borah**, Zhijing Jin, Rada Mihalcea (Asian Chapter of the Association for Computational Linguistics, AACL 2026 Main)
+
+### 2025
 
 - [Mind the (Belief) Gap: Group Identity in the World of LLMs](https://aclanthology.org/2025.findings-acl.948/)<br>
   **Angana Borah**, Marwa Houalla, Rada Mihalcea
