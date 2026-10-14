@@ -16,6 +16,8 @@ I’m actively looking for research mentees and collaborators. Please reach out 
 
 For more information, here's the [link](https://drive.google.com/file/d/1kg8M4DprPZ9YUsdtrkmHjtEqZuppMxin/view?usp=sharing) to my updated CV (as of May 2026)! 
 
+{% include research-directions.html %}
+
 <h2>News</h2> 
 
 Here's what I have been upto lately: <br/>
