@@ -28,7 +28,7 @@ author_profile: true
 - [Belief-Sim: Towards Belief-Driven Simulation of Demographic Misinformation Susceptibility](https://arxiv.org/abs/2603.03585)<br>
   **Angana Borah**, Zohaib Khan, Rada Mihalcea, Verónica Pérez-Rosas (Pluralistic AI & NLP: Diversity-aware, Sociotechnical, Responsible Alignment Workshop @ EMNLP 2026)
 
-- [The Curious Case of Curiosity across Human Cultures and LLMs](https://arxiv.org/abs/2510.12943)<br>
+- [The Curious Case of Curiosity across Human Cultures and LLMs: Evaluating Cross-Cultural Information-Seeking Questions in Humans and LLMs](https://drive.google.com/file/d/1hErU7lR_2vgeRYksVuDRpOofqJbTHkrV/view?usp=sharing)<br>
   **Angana Borah**, Zhijing Jin, Rada Mihalcea (Asian Chapter of the Association for Computational Linguistics, AACL 2026 Main)
 
 ### 2025
