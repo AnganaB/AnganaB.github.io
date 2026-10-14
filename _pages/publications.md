@@ -7,6 +7,25 @@ author_profile: true
 
 ### 2026
 
+- [Institutional Communication in the AI Era: Opportunities, Returns, and Unequal Benefits](https://drive.google.com/file/d/1gz-kr1Z2VN325ox88SwSL_Hw7uQGY1je/view?usp=sharing)<br>
+**Angana Borah**, Rada Mihalcea (Under Review)
+
+- [From Favor to Influence: Reciprocity in LLM Decision-Making](https://drive.google.com/file/d/1mN5ldNO6Ji7kGT0zXt3-J917Kl0c03xa/view?usp=sharing)<br>
+**Angana Borah**, Edward Ajayi, Rada Mihalcea (Under Review)
+
+- [Not All Questions Are Curious: Measuring Model Curiosity in Human-LLM Interactions](https://drive.google.com/file/d/150UjfOBuYAgsvvNyMtjLQwUxGXyDbrB7/view?usp=sharing)<br>
+**Angana Borah**, Rachana Ramchandar, Inderjeet Nair, Rada Mihalcea (Under Review)
+
+- [CURIOUSTOGETHER: Implications of Curiosity and Cultural Grounding in Multi-Agent LLM Interactions](https://drive.google.com/file/d/1LQmOerQJ3rRfJaxPiUKGXMpgASZv_PWI/view?usp=sharing)<br>
+**Angana Borah**, Zoha Hayat Bhatti, Zhijing Jin, Rada Mihalcea (Under Review)
+
+
+- Benchmarking and Evaluating Implicit Biases in Single- and Multi-Agent Language Models<br>
+**Angana Borah**, Samee Arif, Lajanugen Logeswaran, Honglak Lee, Moontae Lee, Rada Mihalcea (Under Review)
+
+- How AI Can Be Used To Contribute To Poverty Alleviation Without Deepening Inequality<br>
+**Angana Borah**, Zara Burzo, Ron Eglash, Mahzad Khoshlessan, Zhijing Jin, Ramaswami Mahalingam, Joan Nwatu, Minal R. Patel, Álvaro Vega-Hidalgo, Tiffany Wu, Laura Lein*, Rada Mihalcea* (Under Review)
+
 - [AtlasNLP: A Country-Aware Atlas of Dataset Representation in NLP](https://arxiv.org/abs/2608.30107)<br>
   Joan Nwatu, Tsedeniya Solomon Amare, Longju Bai, Bontu Fufa Balcha, Zayd Bashir, **Angana Borah**, Zara Burzo, Yubin Choi, Naihao Deng, Samika Gupta, Michel Faloughi, Claude Kwizera, Ziqiao Ma, Cynthia Yacel Fuertes Panizo, Ellie Seehorn, Hui Shen, Jiayi Tang, Zesen Zhao, Boyuan Zheng, Rada Mihalcea (The 2026 Conference on Empirical Methods in Natural Language Processing, EMNLP Main) 
 
