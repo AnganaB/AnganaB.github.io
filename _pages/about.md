@@ -27,6 +27,8 @@ For more information, here's the [link](https://drive.google.com/file/d/1kg8M4Dp
 
 Here's what I have been up to lately:
 
+@ __Sep, 2026__: I was a Student Mentor at the [NextProf Pathfinder](https://nextprof.engin.umich.edu/nextprof-pathfinder/) workshop at the University of Michigan, Ann Arbor. 
+
 @ __Sep, 2026__: Our work investigating Curiosity across Cultures has been accepted to [AACL 2026 Main](https://2026.aaclnet.org/). Camera-ready coming soon! 
 
 @ __Aug, 2026__: Excited to share that four papers I contributed to (one first-authored) have been accepted to [EMNLP 2026](https://2026.emnlp.org/)! Here are the details: [Whose Norms? Disentangling Cultural and Personal Alignment in Large Language Models](https://arxiv.org/pdf/2606.07877) (Main), NE-MultiSpeech: A Multilingual Speech Corpus and ASR Benchmark for Northeast Indian Languages (Main), [AtlasNLP: A Country-Aware Atlas of Dataset Representation in NLP(https://arxiv.org/pdf/2608.30107) (Main) and [The Age of Curiosity Meets the Age of AI: Benchmarking Child Safety in Large Language Models](https://arxiv.org/pdf/2605.25510) (Findings)
