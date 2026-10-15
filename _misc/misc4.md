@@ -1,13 +1,15 @@
 ---
-title: 'Singing'
-type: All genres :P
+title: 'TunesByAngana'
+type: Music and song covers
 collection: misc
 permalink: /misc/misc-2
-excerpt: 'Singing is my hobby, but I am also trained in North Indian (Hindustani) Classical Music (for 5 years - completed Visharad-II which is considered as masters in Indian Classical Music). I sing and listen to almost all genres, but my personal favorites are Classical, Pop, and R&B.'
+excerpt: 'I share song covers through [TunesByAngana](https://www.instagram.com/tunesbyangana/). I am also trained in North Indian (Hindustani) classical music and enjoy singing across genres, especially classical, pop, and R&B.'
 
 ---
 
-I often post song covers on my Instagram. My ID is [tunesbyangana](https://www.instagram.com/tunesbyangana/), feel free to hit follow! :) 
+Singing has been part of my life for years. I trained in North Indian (Hindustani) classical music for five years and completed Visharad-II. I sing across genres, with classical, pop, and R&B among my favorites.
+
+I share my song covers on Instagram at [tunesbyangana](https://www.instagram.com/tunesbyangana/)—feel free to hit follow! :)
 
 <!-- 
 Heading 1
