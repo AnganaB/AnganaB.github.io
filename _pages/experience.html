@@ -1,12 +1,29 @@
 ---
 layout: archive
-title: "Research and Work Experience"
+title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
 
-{% include base_path %}
+<p class="page-intro">I build and study language technologies across academic and industry research—especially socially grounded, cross-cultural, and multi-agent AI.</p>
 
-{% for post in site.experience reversed %}
-  {% include archive-single.html %}
+{% for section in site.data.experience %}
+<section class="career-section" aria-labelledby="experience-{{ forloop.index }}">
+  <h2 id="experience-{{ forloop.index }}">{{ section.group }}</h2>
+  <div class="career-list">
+  {% for role in section.roles %}
+    <article class="career-card">
+      <div class="career-card__dates">{{ role.dates }}</div>
+      <div class="career-card__body">
+        <h3>{{ role.title }}</h3>
+        <p class="career-card__organization">{{ role.organization }}</p>
+        <p class="career-card__location">{{ role.location }}</p>
+        <p>{{ role.summary }}</p>
+      </div>
+    </article>
+  {% endfor %}
+  </div>
+</section>
 {% endfor %}
+
+<p class="page-cta">For education, awards, service, and a complete publication list, see my <a href="https://drive.google.com/file/d/1kg8M4DprPZ9YUsdtrkmHjtEqZuppMxin/view?usp=sharing">full CV</a>.</p>

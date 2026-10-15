@@ -1,16 +1,24 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks & Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+<p class="page-intro">Invited talks, guest lectures, and conference presentations on socially grounded AI, language models, culture, bias, and multi-agent systems.</p>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+<div class="talk-list">
+{% for talk in site.data.talks %}
+  <article class="talk-card">
+    <div class="talk-card__date">{{ talk.date }}</div>
+    <div class="talk-card__body">
+      <p class="talk-card__kind">{{ talk.kind }}</p>
+      <h2>{{ talk.title }}</h2>
+      <p class="talk-card__venue">{{ talk.venue }}{% if talk.location %}<span aria-hidden="true"> · </span>{{ talk.location }}{% endif %}</p>
+      {% if talk.url %}<a class="talk-card__link" href="{{ talk.url }}">{{ talk.link_label | default: "Learn more" }} <span aria-hidden="true">→</span></a>{% endif %}
+    </div>
+  </article>
 {% endfor %}
+</div>
+
+<p class="page-cta">Interested in inviting me to speak? <a href="mailto:anganab@umich.edu">Get in touch</a>.</p>
