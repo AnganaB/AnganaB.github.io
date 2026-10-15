@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 
 --- 
-Hello, and welcome to my website! I am Angana Borah, a fourth-year Computer Science and Engineering Ph.D. candidate at the [University of Michigan, Ann Arbor](https://cse.engin.umich.edu/academics/graduate/graduate-programs/phd-in-cse/), advised by [Prof. Rada Mihalcea](https://lit.eecs.umich.edu/). Prior to this, I completed my master's in Computer Science at [Georgia Tech](https://www.cc.gatech.edu/). My research interests are in NLP and agents, especially evaluating human-LLM and LLM-LLM interactions from a socio-cultural lens, taking inspiration from psychology and cognitive sciences. In my PhD, I have been exploring how language models behave in socially grounded settings, including *fairness and bias*, *curiosity-driven interaction*, *misinformation and persuasion*, and *cultural alignment*. These directions aim to understand how LLMs reason, communicate, and influence people across diverse social and cultural contexts. Alongside my doctoral research, I have spent my summers interning at Amazon and Bloomberg, where I worked on conversational agents and autoresearch systems.
+Hello, and welcome to my website! I am Angana Borah, a fourth-year Computer Science and Engineering Ph.D. candidate at the [University of Michigan, Ann Arbor](https://cse.engin.umich.edu/academics/graduate/graduate-programs/phd-in-cse/), advised by [Prof. Rada Mihalcea](https://lit.eecs.umich.edu/). Prior to this, I completed my master's in Computer Science at [Georgia Tech](https://www.cc.gatech.edu/). My research interest is in human-centered AI, especially evaluating human-LLM and agentic interactions from a socio-cultural lens, taking inspiration from psychology and cognitive sciences. In my PhD, I have been exploring how language models behave in socially grounded settings, including *fairness and bias*, *curiosity-driven interaction*, *misinformation and persuasion*, and *cultural alignment*. These directions aim to understand how LLMs reason, communicate, and influence people across diverse social and cultural contexts. Alongside my doctoral research, I have spent my summers interning at Amazon and Bloomberg, where I worked on conversational agents and autoresearch systems.
 
 
 I’m actively looking for research mentees and collaborators. Please reach out to discuss ideas or potential projects: [anganab@umich.edu](mailto:anganab@umich.edu).
 
 
-For more information, here's the [link](https://drive.google.com/file/d/1kg8M4DprPZ9YUsdtrkmHjtEqZuppMxin/view?usp=sharing) to my updated CV (as of May 2026)! 
+For more information, here's the [link](https://drive.google.com/file/d/1fAjuEP21U90_O-lHlf43x65ptRCnl5os/view?usp=sharing) to my updated CV (as of Oct 2026)! 
 
 {% include research-directions.html %}
 
