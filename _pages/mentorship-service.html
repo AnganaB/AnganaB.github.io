@@ -7,40 +7,6 @@ author_profile: true
 
 <p class="page-intro">I enjoy mentoring students and early-career researchers on socially grounded NLP, human-AI interaction, and the responsible development of language technologies.</p>
 
-<section class="mentorship-section" aria-labelledby="current-mentees">
-  <div class="section-heading">
-    <h2 id="current-mentees">Current mentees</h2>
-    <span>{{ site.data.mentorship.current | size }} collaborations</span>
-  </div>
-  <div class="mentee-grid">
-  {% for mentee in site.data.mentorship.current %}
-    <article class="mentee-card">
-      <p class="mentee-card__status">Current</p>
-      <h3>{% if mentee.profile_url %}<a href="{{ mentee.profile_url }}">{{ mentee.name }}</a>{% else %}{{ mentee.name }}{% endif %}</h3>
-      <p class="mentee-card__affiliation">{{ mentee.affiliation }} <span aria-hidden="true">·</span> {{ mentee.location }}</p>
-      <p class="mentee-card__project"><strong>Project</strong>{% if mentee.project_url %}<a href="{{ mentee.project_url }}">{{ mentee.project }}</a>{% else %}<span>{{ mentee.project }}</span>{% endif %}{% if mentee.venue %}<small>{{ mentee.venue }}</small>{% endif %}</p>
-    </article>
-  {% endfor %}
-  </div>
-</section>
-
-<section class="mentorship-section" aria-labelledby="past-mentees">
-  <div class="section-heading">
-    <h2 id="past-mentees">Past mentees</h2>
-    <span>{{ site.data.mentorship.past | size }} collaborations</span>
-  </div>
-  <div class="mentee-grid">
-  {% for mentee in site.data.mentorship.past %}
-    <article class="mentee-card mentee-card--past">
-      <p class="mentee-card__status">Past</p>
-      <h3>{% if mentee.profile_url %}<a href="{{ mentee.profile_url }}">{{ mentee.name }}</a>{% else %}{{ mentee.name }}{% endif %}</h3>
-      <p class="mentee-card__affiliation"><span class="visually-hidden">Now at </span>{{ mentee.affiliation }} <span aria-hidden="true">·</span> {{ mentee.location }}</p>
-      <p class="mentee-card__project"><strong>Project</strong>{% if mentee.project_url %}<a href="{{ mentee.project_url }}">{{ mentee.project }}</a>{% else %}<span>{{ mentee.project }}</span>{% endif %}{% if mentee.venue %}<small>{{ mentee.venue }}</small>{% endif %}</p>
-    </article>
-  {% endfor %}
-  </div>
-</section>
-
 <section class="service-section" aria-labelledby="service-heading">
   <div class="section-heading">
     <h2 id="service-heading">Service &amp; leadership</h2>
@@ -56,6 +22,52 @@ author_profile: true
       </div>
     </article>
   {% endfor %}
+  </div>
+  <aside class="service-recognition" aria-label="Service recognition">
+    <div class="service-recognition__label">Recognition</div>
+    <div>
+      <h3>CSE Service Award</h3>
+      <p>University of Michigan, 2025 <span aria-hidden="true">·</span> Awarded for contributions to the CSE community.</p>
+    </div>
+  </aside>
+</section>
+
+<section class="mentorship-section" aria-labelledby="mentorship-heading">
+  <div class="section-heading">
+    <h2 id="mentorship-heading">Mentorship</h2>
+  </div>
+  <div class="mentorship-columns">
+    <section class="mentee-column" aria-labelledby="past-mentees">
+      <div class="mentee-column__heading">
+        <h3 id="past-mentees">Past mentees</h3>
+        <span>{{ site.data.mentorship.past | size }}</span>
+      </div>
+      <ul class="mentee-list">
+      {% for mentee in site.data.mentorship.past %}
+        <li class="mentee-item">
+          <h4>{% if mentee.profile_url %}<a href="{{ mentee.profile_url }}">{{ mentee.name }}</a>{% else %}{{ mentee.name }}{% endif %}</h4>
+          <p class="mentee-item__affiliation"><span class="visually-hidden">Now at </span>{{ mentee.affiliation }} <span aria-hidden="true">·</span> {{ mentee.location }}</p>
+          <p class="mentee-item__project">{% if mentee.project_url %}<a href="{{ mentee.project_url }}">{{ mentee.project }}</a>{% else %}{{ mentee.project }}{% endif %}{% if mentee.venue %}<small>{{ mentee.venue }}</small>{% endif %}</p>
+        </li>
+      {% endfor %}
+      </ul>
+    </section>
+
+    <section class="mentee-column" aria-labelledby="current-mentees">
+      <div class="mentee-column__heading">
+        <h3 id="current-mentees">Current mentees</h3>
+        <span>{{ site.data.mentorship.current | size }}</span>
+      </div>
+      <ul class="mentee-list">
+      {% for mentee in site.data.mentorship.current %}
+        <li class="mentee-item">
+          <h4>{% if mentee.profile_url %}<a href="{{ mentee.profile_url }}">{{ mentee.name }}</a>{% else %}{{ mentee.name }}{% endif %}</h4>
+          <p class="mentee-item__affiliation">{{ mentee.affiliation }} <span aria-hidden="true">·</span> {{ mentee.location }}</p>
+          <p class="mentee-item__project">{% if mentee.project_url %}<a href="{{ mentee.project_url }}">{{ mentee.project }}</a>{% else %}{{ mentee.project }}{% endif %}{% if mentee.venue %}<small>{{ mentee.venue }}</small>{% endif %}</p>
+        </li>
+      {% endfor %}
+      </ul>
+    </section>
   </div>
 </section>
 

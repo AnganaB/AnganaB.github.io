@@ -1,46 +1,22 @@
-- dates: "2025–2026"
+- dates: "2025–present"
   role: "Co-organizer"
   organization: "NLP for Positive Impact Workshop"
-  detail: "Fourth edition at ACL 2025 and fifth edition at EMNLP 2026."
   url: "https://sites.google.com/view/nlp4positiveimpact"
 
-- dates: "2026"
+- dates: "2026–present"
   role: "Co-organizer"
   organization: "AI Explorers Program"
   detail: "Global research and mentorship program for pre-doctoral students."
   url: "https://ai.engin.umich.edu/ai-partners/ai-explorers-program/"
 
-- dates: "2026"
-  role: "Student Mentor"
-  organization: "NextProf Pathfinder"
-  detail: "University of Michigan College of Engineering."
-  url: "https://nextprof.engin.umich.edu/nextprof-pathfinder/"
-
-- dates: "2025"
-  role: "Program Committee Member"
-  organization: "SumEval Workshop at COLING"
-
-- dates: "2024–2025"
-  role: "Student Panelist"
-  organization: "CSE 601 and Explore-CS"
-  detail: "Panels on research and Ph.D. experiences."
-
-- dates: "2024–2025"
+- dates: "Ongoing"
   role: "Reviewer"
-  organization: "ACL, EMNLP, and CoNLL"
+  organization: "ARR, COLING, ICLR, and NeurIPS"
 
-- dates: "Since 2024"
+- dates: "2024–2026"
   role: "AI Tea Coordinator"
   organization: "AI Lab, University of Michigan"
 
-- dates: "2024"
-  role: "Reviewer"
-  organization: "ACM Hypertext and Social Media"
-
-- dates: "Since 2023"
+- dates: "2023–present"
   role: "Officer"
   organization: "VoiCSEs, University of Michigan"
-
-- dates: "2023"
-  role: "Reviewer"
-  organization: "Midwest Speech and Language Days"
