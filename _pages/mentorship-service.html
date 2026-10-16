@@ -40,7 +40,6 @@ author_profile: true
     <section class="mentee-column" aria-labelledby="past-mentees">
       <div class="mentee-column__heading">
         <h3 id="past-mentees">Past mentees</h3>
-        <span>{{ site.data.mentorship.past | size }}</span>
       </div>
       <ul class="mentee-list">
       {% for mentee in site.data.mentorship.past %}
@@ -56,7 +55,6 @@ author_profile: true
     <section class="mentee-column" aria-labelledby="current-mentees">
       <div class="mentee-column__heading">
         <h3 id="current-mentees">Current mentees</h3>
-        <span>{{ site.data.mentorship.current | size }}</span>
       </div>
       <ul class="mentee-list">
       {% for mentee in site.data.mentorship.current %}

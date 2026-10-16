@@ -35,30 +35,12 @@
 }
 
 .mentee-column__heading {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1em;
   margin-bottom: 0.3em;
 
   h3 {
     margin: 0;
     font-family: $sans-serif-narrow;
     font-size: $type-size-4;
-  }
-
-  span {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    min-width: 1.7em;
-    min-height: 1.7em;
-    color: $gray;
-    background: mix(#fff, $gray, 90%);
-    border-radius: 999px;
-    font-family: $sans-serif-narrow;
-    font-size: $type-size-8;
-    font-weight: 700;
   }
 }
 
