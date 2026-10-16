@@ -26,4 +26,20 @@ author_profile: true
 </section>
 {% endfor %}
 
-<p class="page-cta">For education, awards, service, and a complete publication list, see my <a href="https://drive.google.com/file/d/1kg8M4DprPZ9YUsdtrkmHjtEqZuppMxin/view?usp=sharing">full CV</a>.</p>
+<section class="career-section" aria-labelledby="awards-heading">
+  <h2 id="awards-heading">Awards &amp; Recognition</h2>
+  <div class="career-list">
+  {% for award in site.data.awards %}
+    <article class="career-card">
+      <div class="career-card__dates">{{ award.year }}</div>
+      <div class="career-card__body">
+        <h3>{% if award.url %}<a href="{{ award.url }}">{{ award.title }}</a>{% else %}{{ award.title }}{% endif %}</h3>
+        <p class="career-card__organization">{{ award.organization }}</p>
+        {% if award.detail %}<p>{{ award.detail }}</p>{% endif %}
+      </div>
+    </article>
+  {% endfor %}
+  </div>
+</section>
+
+<p class="page-cta">For education, service, and a complete publication list, see my <a href="https://drive.google.com/file/d/1fAjuEP21U90_O-lHlf43x65ptRCnl5os/view?usp=sharing">full CV</a>.</p>

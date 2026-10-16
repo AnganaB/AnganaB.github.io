@@ -1,0 +1,38 @@
+- year: "2026"
+  title: "Rackham Predoctoral Fellowship"
+  organization: "Rackham Graduate School, University of Michigan"
+  url: "https://ai.engin.umich.edu/stories/angana-borah-receives-rackham-predoctoral-fellowship"
+
+- year: "2026"
+  title: "Tinker Research Grant ($5,000)"
+  organization: "Thinking Machines Lab"
+  detail: "Supporting research on curiosity in humans and language models."
+  url: "https://thinkingmachines.ai/blog/tinker-research-and-teaching-grants/"
+
+- year: "2026"
+  title: "Pangram Research Collaboration Grant ($5,000)"
+  organization: "Pangram"
+
+- year: "2025"
+  title: "Outstanding Paper Award"
+  organization: "C3NLP at NAACL"
+  detail: "Towards Region-aware Bias Evaluation Metrics"
+  url: "https://aclanthology.org/2025.c3nlp-1.9/"
+
+- year: "2025"
+  title: "CSE Service Award"
+  organization: "University of Michigan"
+  detail: "Recognizing contributions to the CSE community."
+
+- year: "2024"
+  title: "Rackham Conference Travel Grant"
+  organization: "Rackham Graduate School, University of Michigan"
+
+- year: "2023"
+  title: "Speaker Travel and Attendee Grant"
+  organization: "PyCon US"
+
+- year: "2021"
+  title: "Diversity & Inclusion Achievement Award"
+  organization: "Microsoft"
+  detail: "For developing Shru, an American Sign Language translator using Microsoft Azure services."
