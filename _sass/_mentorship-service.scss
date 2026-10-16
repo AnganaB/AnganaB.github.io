@@ -1,0 +1,229 @@
+/* ==========================================================================
+   MENTORSHIP AND SERVICE
+   ========================================================================== */
+
+.mentorship-section,
+.service-section {
+  margin: 2.6em 0 3.2em;
+}
+
+.section-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1em;
+  margin-bottom: 1.2em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid $border-color;
+
+  h2 {
+    margin: 0;
+  }
+
+  > span {
+    color: $gray;
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-7;
+    font-weight: 600;
+  }
+}
+
+.mentee-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1em;
+}
+
+.mentee-card {
+  position: relative;
+  padding: 1.25em 1.3em 1.35em;
+  overflow: hidden;
+  background: mix(#fff, $info-color, 97%);
+  border: 1px solid mix(#fff, $info-color, 78%);
+  border-radius: 6px;
+
+  &::before {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 3px;
+    content: "";
+    background: $info-color;
+  }
+
+  h3 {
+    margin: 0 0 0.35em;
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-4;
+
+    a {
+      text-decoration: none;
+
+      &:hover,
+      &:focus {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+.mentee-card--past {
+  background: #fff;
+  border-color: $border-color;
+
+  &::before {
+    background: mix(#fff, $gray, 35%);
+  }
+}
+
+.mentee-card__status {
+  margin: 0 0 0.45em;
+  color: $info-color;
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-8;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.mentee-card--past .mentee-card__status {
+  color: $gray;
+}
+
+.mentee-card__affiliation {
+  margin: 0;
+  color: $gray;
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-7;
+  line-height: 1.45;
+}
+
+.mentee-card__project {
+  margin: 1em 0 0;
+  font-size: $type-size-6;
+  line-height: 1.5;
+
+  strong {
+    display: block;
+    margin-bottom: 0.25em;
+    color: $darker-gray;
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-8;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  a,
+  span {
+    display: block;
+  }
+
+  small {
+    display: inline-block;
+    margin-top: 0.55em;
+    padding: 0.2em 0.55em;
+    color: $darker-gray;
+    background: mix(#fff, $info-color, 90%);
+    border-radius: 999px;
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-8;
+    font-weight: 700;
+  }
+}
+
+.service-list {
+  position: relative;
+}
+
+.service-list::before {
+  position: absolute;
+  top: 0.45em;
+  bottom: 0.65em;
+  left: 8.2em;
+  width: 1px;
+  content: "";
+  background: $border-color;
+}
+
+.service-item {
+  position: relative;
+  display: grid;
+  grid-template-columns: 7.15em minmax(0, 1fr);
+  gap: 2.1em;
+  padding-bottom: 1.7em;
+
+  &::before {
+    position: absolute;
+    top: 0.4em;
+    left: calc(8.2em - 4px);
+    width: 9px;
+    height: 9px;
+    content: "";
+    background: $info-color;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    box-shadow: 0 0 0 1px $info-color;
+  }
+}
+
+.service-item__dates {
+  color: $gray;
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-7;
+  font-weight: 600;
+  line-height: 1.4;
+  text-align: right;
+}
+
+.service-item__body {
+  h3 {
+    margin: 0 0 0.2em;
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-5;
+  }
+
+  p {
+    margin: 0.35em 0 0;
+    font-size: $type-size-6;
+    line-height: 1.5;
+  }
+}
+
+.service-item__organization {
+  color: $darker-gray;
+  font-weight: 600;
+}
+
+@media (max-width: $small) {
+  .mentee-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .section-heading {
+    display: block;
+
+    > span {
+      display: block;
+      margin-top: 0.35em;
+    }
+  }
+
+  .service-list::before {
+    left: 4px;
+  }
+
+  .service-item {
+    display: block;
+    padding: 0 0 1.7em 1.6em;
+
+    &::before {
+      left: 0;
+    }
+  }
+
+  .service-item__dates {
+    margin-bottom: 0.35em;
+    text-align: left;
+  }
+}
