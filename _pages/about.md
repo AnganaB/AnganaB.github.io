@@ -27,6 +27,8 @@ For more information, here's the [link](https://drive.google.com/file/d/1fAjuEP2
 
 Here's what I have been up to lately:
 
+@ __Sep, 2026__: Awarded the [Pangram Research Collaboration Grant](https://www.pangram.com/contact-us/research) ($5000) to continue our work on how AI usage changes opportunities ad benefits in institutional communications across neighborhood contexts. Thank you, Thinking Machines Lab!  
+
 @ __Sep, 2026__: I was a Student Mentor at the [NextProf Pathfinder](https://nextprof.engin.umich.edu/nextprof-pathfinder/) workshop at the University of Michigan, Ann Arbor. 
 
 @ __Sep, 2026__: Our work investigating Curiosity across Cultures has been accepted to [AACL 2026 Main](https://2026.aaclnet.org/). Camera-ready coming soon! 
