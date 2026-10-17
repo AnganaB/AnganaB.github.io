@@ -9,6 +9,12 @@
   detail: "Global research and mentorship program for pre-doctoral students."
   url: "https://ai.engin.umich.edu/ai-partners/ai-explorers-program/"
 
+- dates: "Sep 2026"
+  role: "Student Mentor"
+  organization: "NextProf Pathfinder"
+  detail: "University of Michigan College of Engineering."
+  url: "https://nextprof.engin.umich.edu/nextprof-pathfinder/"
+
 - dates: "Ongoing"
   role: "Reviewer"
   organization: "ARR, COLING, ICLR, and NeurIPS"
