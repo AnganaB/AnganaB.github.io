@@ -27,9 +27,7 @@ For more information, here's the [link](https://drive.google.com/file/d/1fAjuEP2
 
 Here's what I have been up to lately:
 
-@ __Oct, 2026__: I gave a talk at [IndabaX × CyberFest Madagascar](https://fcoi.re/) on “Misinformation in Human–LLM Interactions: Persuasion, Beliefs, and Simulation.”
-
-@ __Oct, 2026__: I gave a talk at the [Pioneer Centre for AI at the University of Copenhagen](https://www.aicentre.dk/) on “Investigating Misinformation in Human–LLM Interactions: Persuasion, Beliefs, and Simulation.”
+@ __Oct, 2026__: I talked about “Misinformation in Human–LLM Interactions: Persuasion, Beliefs, and Simulation.” at the [Pioneer Centre for AI at the University of Copenhagen](https://www.aicentre.dk/) and [IndabaX × CyberFest Madagascar](https://fcoi.re/) 
 
 @ __Oct, 2026__: I gave a talk to the [Natural Language Processing Group at Aalborg University Copenhagen](https://www.cs.aau.dk/research/research-groups/natural-language-processing-nlp) on “Who Do LLM Agents Favor? Beliefs, Reciprocity, and Decision-Making.”
 
