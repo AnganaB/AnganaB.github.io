@@ -21,7 +21,7 @@ For more information, here's the [link](https://drive.google.com/file/d/1fAjuEP2
 <section class="news-panel" aria-labelledby="news-heading">
 <div class="news-panel__header">
 <h2 id="news-heading">News</h2>
-<span>Updates, talks, awards, and milestones</span>
+<span>Updates, talks, and milestones</span>
 </div>
 <div class="news-panel__content" role="region" aria-label="News archive" tabindex="0" markdown="1">
 
